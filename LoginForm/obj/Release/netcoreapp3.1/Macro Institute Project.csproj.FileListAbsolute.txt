@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\Macro Institute Project.exe
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\Macro Institute Project.deps.json
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\Macro Institute Project.runtimeconfig.json
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\Macro Institute Project.runtimeconfig.dev.json
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\Macro Institute Project.dll
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\Macro Institute Project.pdb
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\LoginForm\LoginForm\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.AttendenceDetails.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.MainPage.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.Admin.Payment.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.StudentDetails.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.Properties.Resources.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.Attendence.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\LoginForm.frmLogin.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\LoginForm.Student_Registration.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.User.userAttendenceDetail.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.userHomePage.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro_Institute_Project.User.userStudentDetails.resources
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.AssemblyInfo.cs
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.csproj.CopyComplete
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.dll
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.pdb
+C:\Users\User\source\repos\LoginForm\LoginForm\obj\Release\netcoreapp3.1\Macro Institute Project.genruntimeconfig.cache

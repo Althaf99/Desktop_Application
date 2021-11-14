@@ -1,0 +1,11 @@
+D:\Study Materials\MacroInstitute_Project\Macro Institute Project.exe
+D:\Study Materials\MacroInstitute_Project\Macro Institute Project.dll
+D:\Study Materials\MacroInstitute_Project\Macro Institute Project.deps.json
+D:\Study Materials\MacroInstitute_Project\Macro Institute Project.runtimeconfig.json
+D:\Study Materials\MacroInstitute_Project\Macro Institute Project.pdb
+D:\Study Materials\MacroInstitute_Project\System.Data.SqlClient.dll
+D:\Study Materials\MacroInstitute_Project\runtimes\win-arm64\native\sni.dll
+D:\Study Materials\MacroInstitute_Project\runtimes\win-x64\native\sni.dll
+D:\Study Materials\MacroInstitute_Project\runtimes\win-x86\native\sni.dll
+D:\Study Materials\MacroInstitute_Project\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Study Materials\MacroInstitute_Project\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
